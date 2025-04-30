@@ -1,0 +1,703 @@
+{"topic": "modelY", "input": "我觉得小鹏可以吊打它[微笑]", "label1": "小鹏", "label2": "品牌力"}
+{"topic": "modelY", "input": "用料做工一般，质感很差，减震太差，坐着确实难受", "label1": "用料做工", "label2": "感知质量"}
+{"topic": "modelY", "input": "用料做工一般，质感很差，减震太差，坐着确实难受", "label1": "减震", "label2": "舒适性"}
+{"topic": "modelY", "input": "新款说实话，我个人觉得太丑了[发呆][呲牙]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "隔音..挺好的啊...我没觉得隔音差啊[泪奔]", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "这车长得跟我刚买的鼠标一样", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "驾驶感受很难和国产比，上车按摩椅还是语音控制，自动给你开到目的地，别的估计还是有差距，毕竟这玩意安全在那", "label1": "驾驶辅助功能", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "驾驶感受很难和国产比，上车按摩椅还是语音控制，自动给你开到目的地，别的估计还是有差距，毕竟这玩意安全在那", "label1": "安全性", "label2": "安全性"}
+{"topic": "modelY", "input": "这款车不错", "label1": "整体印象", "label2": "性价比"}
+{"topic": "modelY", "input": "特斯拉电车天花板但绝对不是Model y[捂脸][捂脸][捂脸]", "label1": "特斯拉电车", "label2": NaN}
+{"topic": "modelY", "input": "隔音不同意，24款隔音很好，同时我家里也还有十几万的丰田，差距明显[捂脸]", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "隔音太好，外面别的车子按喇叭我有时听不见", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "我之前坐老板的，滤震真的好差，颠死了[捂脸]但是确实操控很不错", "label1": "滤震", "label2": "舒适性"}
+{"topic": "modelY", "input": "特斯拉好不好开不知道 乘客做的是真难受震动不柔和", "label1": "乘坐感受", "label2": "舒适性"}
+{"topic": "modelY", "input": "最大的优点，坦克一样强悍的一体化车身，安全才是配置里的顶配。", "label1": "一体化车身", "label2": "安全性"}
+{"topic": "modelY", "input": "特斯拉的销售员亲口说的，特斯拉不用真皮，Y的减震确确实很硬[捂脸]", "label1": "减震", "label2": "舒适性"}
+{"topic": "modelY", "input": "y的缺点就是丑啊", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "y的，挺良心了", "label1": "配置", "label2": "性价比"}
+{"topic": "modelY", "input": "座椅跟我儿子玩具车的差不多[大笑]", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "这款车不错[赞][赞][赞][赞]", "label1": "整体评价", "label2": "感知质量"}
+{"topic": "modelY", "input": "隔音很好啊[泪奔][泪奔]我当时试驾就是因为安静买的[泪奔][泪奔]", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "要不是我有model Y长续航跟A4就信你了，高速噪音基本没啥差别，还是无框车门", "label1": "高速噪音", "label2": "NVH"}
+{"topic": "modelY", "input": "车好看漂亮大气，谢谢分享[赞][赞][赞][赞][赞][赞]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "除了牌子，一无所事，真垃圾，哪点都不如同级别电车", "label1": "整体性能", "label2": "品牌力"}
+{"topic": "modelY", "input": "这款车棒棒哒[赞][赞][玫瑰][玫瑰][玫瑰][玫瑰]", "label1": "整体评价", "label2": "感知质量"}
+{"topic": "modelY", "input": "确实硬，一点都不舒服，不管是开还是坐，真的很硬很硬", "label1": "滤震", "label2": "舒适性"}
+{"topic": "modelY", "input": "太丑[微笑] 网约车", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "高情商：路面反馈清晰。     低情商：震的我屁股疼", "label1": "悬架", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "无法接受太癫的底盘", "label1": "底盘", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "特斯拉音响效果最好", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "内饰和配置简单是好事，但是这也太简约了吧[捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "隐藏式门把手和车窗到冬天咋整", "label1": "隐藏式门把手", "label2": "感知质量"}
+{"topic": "modelY", "input": "五年免息换来的销量，这车很多地方不到位。", "label1": "金融政策", "label2": NaN}
+{"topic": "modelY", "input": "五年免息换来的销量，这车很多地方不到位。", "label1": "整体表现", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车好尴尬啊 要啥没啥", "label1": "整体评价", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "电机电控", "label2": "动力性能"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "车机", "label2": "智能座舱"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "底盘", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉在电机电控方面强的离谱、续航达成率高、车机体验感好、底盘用料扎实、开起来好开。这还不能作为它销量高的原因吗？ 车还是要回归到车本身，冰箱空调大沙发这些东西是没有技术含量。特斯拉这车除了内饰毛坯悬挂硬之外没啥毛病的", "label1": "悬挂", "label2": "舒适性"}
+{"topic": "modelY", "input": "这车同价位我真不知道它的优点在哪，但是销量为什么能做到全球第一呢？各位可以说说吗？", "label1": "优点", "label2": NaN}
+{"topic": "modelY", "input": "没仪表盘看着是真难受", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "这车根本没法坐人，只适合单身开，家庭唯一用车就算了，无论怎样后排都会晕车", "label1": "乘坐感受", "label2": "舒适性"}
+{"topic": "modelY", "input": "原创度这么高还好看，为什么国产车很难做到啊", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "不如极越07", "label1": "竞品比较", "label2": "品牌力"}
+{"topic": "modelY", "input": "后悔加钱买白色了，深空灰更好看 [捂脸]", "label1": "颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "Model Y什么音响啊 质感挺好的", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "特斯拉内饰可太简约了，就是毛坯房的感觉[捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "电车里面毛豆Y的外观最好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我月初提的车，特斯拉设计是我非常喜欢的。当初试驾了蔚来，小鹏、极氪。设计上蔚来我也特别喜欢，试驾完后就知道特斯拉优势，油门跟脚，方向盘精准度特别高。特斯拉给人的感觉就是大众车，简单但用料扎实，完全就是工具代步车。", "label1": "方向盘", "label2": "操控"}
+{"topic": "modelY", "input": "这内饰质感，看过了好的真的下不去手[捂脸]", "label1": "内饰质感", "label2": "感知质量"}
+{"topic": "modelY", "input": "后排放倒不是全平真难受", "label1": "后排放倒", "label2": "感知质量"}
+{"topic": "modelY", "input": "喜欢纯粹驾驶，这车很合适，五年免息也很诱人，缺点是地盘偏硬，车子快改款了，部分单位tsl进不去", "label1": "地盘", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "喜欢纯粹驾驶，这车很合适，五年免息也很诱人，缺点是地盘偏硬，车子快改款了，部分单位tsl进不去", "label1": "五年免息", "label2": "品牌力"}
+{"topic": "modelY", "input": "简单但是舒服，耐看，那些所谓的豪华内饰，用料确实更好，但是就是设计的太油腻了…很多车外观看着还可以，一坐进去就感觉年纪大了十岁……还有车机ui一点也不考究，设计的像十多年前的安卓机的感觉，土土的……不大气", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "我一个普通人角度来看，适合喜欢简约快捷的人群，简约风格，空间不错，我个人还是比较喜欢18年左右的油车的设计，机械换挡什么的", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "我一个普通人角度来看，适合喜欢简约快捷的人群，简约风格，空间不错，我个人还是比较喜欢18年左右的油车的设计，机械换挡什么的", "label1": "简约风格", "label2": "感知质量"}
+{"topic": "modelY", "input": "我一个普通人角度来看，适合喜欢简约快捷的人群，简约风格，空间不错，我个人还是比较喜欢18年左右的油车的设计，机械换挡什么的", "label1": "空间", "label2": "空间"}
+{"topic": "modelY", "input": "刹车硬  减震硬  跟开拖拉机一样[抠鼻]", "label1": "刹车/减震", "label2": "舒适性"}
+{"topic": "modelY", "input": "大冷的天 在车里开着空调 躺着太舒服了 主要是省钱[呆无辜]", "label1": "空调", "label2": "感知质量"}
+{"topic": "modelY", "input": "modely今天见了，吐槽一下，后背太丑了[捂脸]看见modely的后背就想笑[捂脸][捂脸]", "label1": "后背造型", "label2": "感知质量"}
+{"topic": "modelY", "input": "哪都好，就是这个高速的风燥，我真要了命了", "label1": "高速风噪", "label2": "NVH"}
+{"topic": "modelY", "input": "去试驾过两款电车，极氪和特斯拉，极氪开起来扎实，地盘稳，特斯拉真好开啊，感觉比宝马3和5好开，音响顶级，操控爽死，开的还是后驱版[捂脸]", "label1": "驾驶感受/操控", "label2": "操控"}
+{"topic": "modelY", "input": "去试驾过两款电车，极氪和特斯拉，极氪开起来扎实，地盘稳，特斯拉真好开啊，感觉比宝马3和5好开，音响顶级，操控爽死，开的还是后驱版[捂脸]", "label1": "地盘稳定性", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "去试驾过两款电车，极氪和特斯拉，极氪开起来扎实，地盘稳，特斯拉真好开啊，感觉比宝马3和5好开，音响顶级，操控爽死，开的还是后驱版[捂脸]", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "除了语音交互 近乎完美的电车", "label1": "语音交互", "label2": "智能座舱"}
+{"topic": "modelY", "input": "操控确实好，就是没座椅通风，避震硬，座椅舒适度差，不然真的没话说，续航不虚标，每次都能跑赢表显", "label1": "操控", "label2": "操控"}
+{"topic": "modelY", "input": "操控确实好，就是没座椅通风，避震硬，座椅舒适度差，不然真的没话说，续航不虚标，每次都能跑赢表显", "label1": "座椅通风", "label2": "配置"}
+{"topic": "modelY", "input": "操控确实好，就是没座椅通风，避震硬，座椅舒适度差，不然真的没话说，续航不虚标，每次都能跑赢表显", "label1": "避震", "label2": "舒适性"}
+{"topic": "modelY", "input": "操控确实好，就是没座椅通风，避震硬，座椅舒适度差，不然真的没话说，续航不虚标，每次都能跑赢表显", "label1": "座椅舒适度", "label2": "舒适性"}
+{"topic": "modelY", "input": "操控确实好，就是没座椅通风，避震硬，座椅舒适度差，不然真的没话说，续航不虚标，每次都能跑赢表显", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "音响不如我的五菱宏光 性能更不用比了 [看]", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "内饰一如既往的简陋，仪表盘都不给[我想静静]看着就别扭", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "@香瓜不香 靓车喔老系", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是没有座椅通风", "label1": "座椅通风", "label2": "配置"}
+{"topic": "modelY", "input": "就这个天窗顶，有点儿接受不了……", "label1": "天窗", "label2": "舒适性"}
+{"topic": "modelY", "input": "没有仪表盘是不", "label1": "仪表盘", "label2": "智能座舱"}
+{"topic": "modelY", "input": "机顶盖那么薄吗？按个窝", "label1": "机顶盖材质", "label2": "感知质量"}
+{"topic": "modelY", "input": "底盘太低了不然真的会买", "label1": "底盘", "label2": "操控"}
+{"topic": "modelY", "input": "这车只适合自己开，但凡多坐一个人就不合适了", "label1": "乘坐人数限制", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "要是什么时候能有个hud就好了，开着总超速[泪奔]", "label1": "hud", "label2": "配置"}
+{"topic": "modelY", "input": "好开是真好开，硬也是真的硬，不过我喜欢[九转大肠]", "label1": "驾驶感受", "label2": "操控"}
+{"topic": "modelY", "input": "好开是真好开，硬也是真的硬，不过我喜欢[九转大肠]", "label1": "车身硬度", "label2": "舒适性"}
+{"topic": "modelY", "input": "没有仪表盘，看着不是特别习惯啊", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "我买特斯拉就是因为音响！太棒了", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "总觉得Y屁股像是被砍了一截似的", "label1": "尾部设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "就是内饰太简陋[捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响是挺好，但是隔音不行啊，跑起来风躁影响太厉害了", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "音响是挺好，但是隔音不行啊，跑起来风躁影响太厉害了", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "门把手真的反人类", "label1": "门把手", "label2": "安全性"}
+{"topic": "modelY", "input": "门把手小气了", "label1": "门把手", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车底盘硬的一批", "label1": "底盘", "label2": "舒适性"}
+{"topic": "modelY", "input": "萝卜咸菜了各有所爱了，车挺好，就是我不是太喜欢这个风格[泪奔]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "无论多好看的内饰看久了也就那样", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉安全性还是牛的", "label1": "安全性", "label2": "安全性"}
+{"topic": "modelY", "input": "车坐着好抖，易晕车，没通风，等焕新[憨笑]", "label1": "乘坐感受", "label2": "舒适性"}
+{"topic": "modelY", "input": "车坐着好抖，易晕车，没通风，等焕新[憨笑]", "label1": "稳定性", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "车坐着好抖，易晕车，没通风，等焕新[憨笑]", "label1": "座椅通风", "label2": "配置"}
+{"topic": "modelY", "input": "最难受的就是仪表盘[捂脸]怎么都难受", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "这靠背薄的跟瓷砖似的", "label1": "靠背", "label2": NaN}
+{"topic": "modelY", "input": "欣赏不来特斯拉的外观", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "有个仪表盘或者抬头显示就好了[看]", "label1": "仪表盘/抬头显示", "label2": "配置"}
+{"topic": "modelY", "input": "整车质感跟焕新3差了好几个档次", "label1": "整车质感", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉后备箱槽  真的特别容易进灰[尬笑]", "label1": "后备箱槽", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响真好，比蔚来好", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "被我老婆塞满了露营装备…还能放个三个大行李箱", "label1": "后备箱空间", "label2": "空间"}
+{"topic": "modelY", "input": "特斯拉的音响太棒了", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "内饰毛胚就算了，外形大鼠标是真的丑啊[捂脸]", "label1": "外形", "label2": "感知质量"}
+{"topic": "modelY", "input": "没仪表盘是真反人类", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "比苹果手机都离谱    美国标的杀伤力对某些群体太大     不过确实保养量大  电车里面保值  买车 售后都省心", "label1": "保养量", "label2": NaN}
+{"topic": "modelY", "input": "比苹果手机都离谱    美国标的杀伤力对某些群体太大     不过确实保养量大  电车里面保值  买车 售后都省心", "label1": "保值率", "label2": "品牌力"}
+{"topic": "modelY", "input": "这车的内饰就好比这几年装修流行的风格 [呲牙]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "这内饰[石化][石化][捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "什么都是平板操作有点不习惯", "label1": "中控屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "y开起来很爽，但是坐起来很一般", "label1": "驾驶感受", "label2": "操控"}
+{"topic": "modelY", "input": "新款好难等啊。。。", "label1": "新款", "label2": NaN}
+{"topic": "modelY", "input": "受不了这个门把手", "label1": "门把手", "label2": "感知质量"}
+{"topic": "modelY", "input": "这屏好流畅", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "展厅星空灰挺好看，在外面看起来真的丑", "label1": "外观颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "很帅[赞]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "真像一个大鼠标[看]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "@@孔孔 老婆 。特斯拉真的最帅", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这颜色真好看", "label1": "银色外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "银色是真好看", "label1": "外观颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "现在五年免息 尾款再立减1万 确实太狠了", "label1": "优惠", "label2": "品牌力"}
+{"topic": "modelY", "input": "今天正好健身房楼下看到一辆，感觉好小啊[捂脸]特别迷你的感觉，我都一度怀疑是不是modelQ[捂脸]", "label1": "车身大小", "label2": "空间"}
+{"topic": "modelY", "input": "悬架太硬，座椅太硬，阻尼感强，续航一般", "label1": "悬架", "label2": "舒适性"}
+{"topic": "modelY", "input": "悬架太硬，座椅太硬，阻尼感强，续航一般", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "悬架太硬，座椅太硬，阻尼感强，续航一般", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "什么都好，座椅矿量位移，竟然解决不了，有点失望..开了这么多年的车，也换了好几台车，唯一在特斯拉上竟然碰到座椅固定后还会移动的车子…", "label1": "座椅问题", "label2": "品质"}
+{"topic": "modelY", "input": "我靠买了半年才知道副驾驶前面还有储物箱[冷漠][冷漠][冷漠]", "label1": "副驾驶储物箱", "label2": "感知质量"}
+{"topic": "modelY", "input": "有没觉得现款y主副驾驶座椅左右夹屁股 ？焕新3座椅就不会", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "特斯拉塑料感太强了 真的", "label1": "内饰材质", "label2": "感知质量"}
+{"topic": "modelY", "input": "我挺喜欢这车，无奈开着不方便", "label1": "便利性", "label2": "便利性"}
+{"topic": "modelY", "input": "5 年免息，这个政策我觉得挺好的，其他车企要是能这样就爽了", "label1": "优惠", "label2": "品牌力"}
+{"topic": "modelY", "input": "刹车硬，减震，其他缺点说不出来了[捂脸]", "label1": "刹车", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "看了小米和毛豆y ，感觉毛豆的属实舒服，就是隐藏把手个人觉得不太好[晕]", "label1": "把手", "label2": "感知质量"}
+{"topic": "modelY", "input": "其他都不错，就是内饰太惨淡[捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车去实体看了，感觉，不想suv，矮，后排坐着也小，但是车很大，就很奇怪[捂脸]", "label1": "后排空间", "label2": "空间"}
+{"topic": "modelY", "input": "感觉这车真丑又高又短[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "一千公里内饰在豪华点", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "内饰是真简陋为什么还会卖那么好", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "就是好[看]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "续航能到 550 左右就完美了", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "里程3万，充满后显示442，实际冬天最多跑200[发呆]", "label1": "续航里程", "label2": "续航"}
+{"topic": "modelY", "input": "风燥有点大呀", "label1": "风噪", "label2": "NVH"}
+{"topic": "modelY", "input": "隔音效果:几乎没有[捂脸][捂脸]", "label1": "隔音效果", "label2": "NVH"}
+{"topic": "modelY", "input": "Y我试驾过一次，可能是因为电车胎压高的原因，车太硬了，路面不平开的特别难受", "label1": "悬架", "label2": "舒适性"}
+{"topic": "modelY", "input": "想买 但是怕底盘被刮伤电池[流泪]", "label1": "底盘保护", "label2": "经济性"}
+{"topic": "modelY", "input": "过减速带真的太硬了，太硬了，隔音没有想象中的好", "label1": "减震", "label2": "舒适性"}
+{"topic": "modelY", "input": "过减速带真的太硬了，太硬了，隔音没有想象中的好", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "这车去掉桌椅不舒服 减震硬 别的可以说没有缺点。能把桌椅和减震弄好 估计那些空调彩电大沙发的车都卖不出去", "label1": "减震", "label2": "舒适性"}
+{"topic": "modelY", "input": "保险太贵了吧，6900[石化]", "label1": "保险费用", "label2": "经济性"}
+{"topic": "modelY", "input": "隔音那里差点喷了，开不开没啥区别[泪奔]", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "这个方向盘大家有没有觉得小，而且很滑，不如真皮质感，我开着好像跟大号玩具车一样", "label1": "方向盘", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车屁股看的真难受[捂脸]", "label1": "尾部造型", "label2": "感知质量"}
+{"topic": "modelY", "input": "后排中间头枕都没有吗？跟我几万块的一样！[捂脸][捂脸]", "label1": "后排头枕", "label2": "配置"}
+{"topic": "modelY", "input": "二十多万吗？[抠鼻]便宜呢", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "中控黑屏了咋整", "label1": "中控屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "屏幕换挡真不如怀挡方便", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "车门的质感怎么感觉那么别扭", "label1": "车门质感", "label2": "感知质量"}
+{"topic": "modelY", "input": "毛豆3️⃣的怀挡杆真不应该取消", "label1": "怀挡杆", "label2": "配置"}
+{"topic": "modelY", "input": "按个类似理想仪表盘就完美了", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "这个颜色是y里面最漂亮的。", "label1": "银色外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "质量过硬，车子档次感也有科技感也有，车子还可以一直免费升级OTA 它能不香吗[捂脸]", "label1": "质量", "label2": NaN}
+{"topic": "modelY", "input": "质量过硬，车子档次感也有科技感也有，车子还可以一直免费升级OTA 它能不香吗[捂脸]", "label1": "档次感", "label2": NaN}
+{"topic": "modelY", "input": "质量过硬，车子档次感也有科技感也有，车子还可以一直免费升级OTA 它能不香吗[捂脸]", "label1": "科技感", "label2": NaN}
+{"topic": "modelY", "input": "质量过硬，车子档次感也有科技感也有，车子还可以一直免费升级OTA 它能不香吗[捂脸]", "label1": "OTA升级", "label2": "智能座舱"}
+{"topic": "modelY", "input": "y除了驾驶位，其他的乘坐舒适性相当差", "label1": "乘坐舒适性", "label2": "舒适性"}
+{"topic": "modelY", "input": "天窗没有遮阳帘是硬伤，", "label1": "天窗遮阳帘", "label2": "配置"}
+{"topic": "modelY", "input": "这个黑色屁股一模一样像云贵川那种棺材头", "label1": "尾部设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "四驱开着提速很快", "label1": "四驱提速", "label2": "动力性能"}
+{"topic": "modelY", "input": "看这后备箱，我感觉毛豆y可以当面包车用[比心][比心][比心]", "label1": "后备箱空间", "label2": "空间"}
+{"topic": "modelY", "input": "现在车的后备箱都大，平时没什么装的，建议后排座椅后移空间大点，", "label1": "后备箱", "label2": "空间"}
+{"topic": "modelY", "input": "现在车的后备箱都大，平时没什么装的，建议后排座椅后移空间大点，", "label1": "后排座椅空间", "label2": "空间"}
+{"topic": "modelY", "input": "内饰像毛坯房吧[呲牙]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "空间很一般", "label1": "空间", "label2": "空间"}
+{"topic": "modelY", "input": "车很好开，后排颠，老婆直接否定[捂脸][捂脸][捂脸][捂脸]", "label1": "驾驶感受", "label2": "操控"}
+{"topic": "modelY", "input": "车很好开，后排颠，老婆直接否定[捂脸][捂脸][捂脸][捂脸]", "label1": "后排乘坐感受", "label2": "舒适性"}
+{"topic": "modelY", "input": "坐后排非常难受", "label1": "后排乘坐感受", "label2": "舒适性"}
+{"topic": "modelY", "input": "试驾了几款，Y的确是操控性最接近油车的", "label1": "操控性", "label2": "操控"}
+{"topic": "modelY", "input": "隔音不行，风噪很大", "label1": "隔音", "label2": "NVH"}
+{"topic": "modelY", "input": "这款车漏水到地毯里 其他还好", "label1": "漏水问题", "label2": "品质"}
+{"topic": "modelY", "input": "这个颜色超难看", "label1": "银色外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "感觉有点震动", "label1": "震动", "label2": NaN}
+{"topic": "modelY", "input": "没什么好改的，外形无敌", "label1": "外形", "label2": "感知质量"}
+{"topic": "modelY", "input": "开过 非常好开", "label1": "驾驶感受", "label2": "操控"}
+{"topic": "modelY", "input": "后备箱确实大啊", "label1": "后备箱空间", "label2": "空间"}
+{"topic": "modelY", "input": "高级感十足[赞]", "label1": "高级感", "label2": "性价比"}
+{"topic": "modelY", "input": "后备箱是真的大", "label1": "后备箱空间", "label2": "空间"}
+{"topic": "modelY", "input": "就我一个人觉得这车很丑吗[发呆]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "没有仪表盘，在哪里看速度？转数？", "label1": "仪表盘", "label2": "智能座舱"}
+{"topic": "modelY", "input": "真的好开[捂脸]", "label1": "驾驶体验", "label2": "操控"}
+{"topic": "modelY", "input": "我在等改款\nhud，座椅再舒服点尤其后排，转向灯别改，这些能做到我就下手了", "label1": "HUD", "label2": "配置"}
+{"topic": "modelY", "input": "我在等改款\nhud，座椅再舒服点尤其后排，转向灯别改，这些能做到我就下手了", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "其它还好，开起来像板车", "label1": "驾驶感受", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "无限接近油车的试驾体验，真的话我也想入手呀", "label1": "试驾体验", "label2": "操控"}
+{"topic": "modelY", "input": "如果不是屏幕挂挡，有仪表盘，可能我会买。可是为啥没有啊？[流泪]", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "减去置换补贴尾款➖1，22万多买y确实可以，不过正常买新不买旧[捂脸]", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "改款的更差。", "label1": "改款", "label2": NaN}
+{"topic": "modelY", "input": "座椅再舒服一点就好了[呲牙]", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "23.9提车  国家补贴1.3   真香", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "不要买这车，国外的不安全，能被远程控制，空间小毛坯房，同价位别的车很香", "label1": "安全性", "label2": "安全性"}
+{"topic": "modelY", "input": "不要买这车，国外的不安全，能被远程控制，空间小毛坯房，同价位别的车很香", "label1": "空间", "label2": "空间"}
+{"topic": "modelY", "input": "我也去试驾毛豆外了，刹车很硬，一脚下去还要往前走一段距离，销售说特斯拉的刹车是线性刹车，[不失礼貌的微笑]", "label1": "刹车", "label2": "操控"}
+{"topic": "modelY", "input": "总之电车买特斯拉，不会错的", "label1": "特斯拉", "label2": "品牌力"}
+{"topic": "modelY", "input": "特斯拉很强，唯一不足的就是外观不怎么好看，", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉还是有一些缺点，比如座椅不是特别舒服，高速上噪音比较大，但是换车肯定还是特斯拉", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "特斯拉还是有一些缺点，比如座椅不是特别舒服，高速上噪音比较大，但是换车肯定还是特斯拉", "label1": "高速噪音", "label2": "NVH"}
+{"topic": "modelY", "input": "特斯拉车是可以 就是没有仪表盘让我感觉怪怪的", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "是邪恶的鼠标右键好丑的邪恶鼠标", "label1": "鼠标", "label2": "感知质量"}
+{"topic": "modelY", "input": "后备箱是真的漏水啊…", "label1": "后备箱漏水", "label2": "品质"}
+{"topic": "modelY", "input": "特斯拉 服务挺差劲的，买完后", "label1": "服务", "label2": "品牌力"}
+{"topic": "modelY", "input": "开过一次朋友家的，好喜欢，就是有点硬", "label1": "驾驶感受", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "这个y后备箱这么大啊卧槽[捂脸]", "label1": "后备箱空间", "label2": "空间"}
+{"topic": "modelY", "input": "外观圆润，内饰简陋，但不缺高级感，这就是卖得好的原因", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观圆润，内饰简陋，但不缺高级感，这就是卖得好的原因", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡很高级?", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "开了4年，10万公里了，不开空调能跑300，开空调只能跑200出头，老婆不让换[听歌]", "label1": "续航里程", "label2": "续航"}
+{"topic": "modelY", "input": "人真的很现实，说丑的都是已经买了现款的和根本不考虑买的，焕新版很漂亮", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡唯一瑕疵[暗中观察]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "26万贵了 等降到24万下手", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "最最大的问题是，五年免息没有了", "label1": "优惠", "label2": "品牌力"}
+{"topic": "modelY", "input": "等了小半年 新款y太失望了。。。！", "label1": "新款Y", "label2": NaN}
+{"topic": "modelY", "input": "[酷拽]感觉巨丑", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "Cltc太虚了，报600最多跑400", "label1": "CLTC续航", "label2": "续航"}
+{"topic": "modelY", "input": "为啥把换挡杆取消呢，不然真的买了", "label1": "换挡杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "续航太失败了，我还以为会有800以上的续航呢。", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "扬声器14个剪到9个 低音炮没了 很贵的LED大灯没了 内饰换成了廉价毛毡 五百强玻璃没了 地盘也减配了", "label1": "配置", "label2": "配置"}
+{"topic": "modelY", "input": "据说前面贯穿灯可以单独关闭？这样看好像舒服很多[笑哭]", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "反人类的换挡方式啊！为啥啊", "label1": "换挡方式", "label2": "感知质量"}
+{"topic": "modelY", "input": "要是中间那条灯带能关掉不亮就好看了[酷拽]", "label1": "灯带", "label2": "感知质量"}
+{"topic": "modelY", "input": "21.2万可以接受，25.6万对我来说就高了[流泪]咋办，是拼一拼买新款还是将就着价格买老款？", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "换新了啥？这价格哪个国产不比这个强", "label1": "性价比", "label2": "性价比"}
+{"topic": "modelY", "input": "我的换新3太好开了。好看。好想再买一辆存着。哈哈哈哈哈哈哈", "label1": "驾驶感受", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "我的换新3太好开了。好看。好想再买一辆存着。哈哈哈哈哈哈哈", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我的换新3太好开了。好看。好想再买一辆存着。哈哈哈哈哈哈哈", "label1": "购买意愿", "label2": NaN}
+{"topic": "modelY", "input": "看到新y，我觉得我这个等等党赢了[暗中观察]第一天就下单了，我可能是少有的觉得老y丑，如果新y还不上就买新3的人[暗中观察]我主要是不喜欢老y前脸太圆了[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "感觉实物不丑啊，现场看还是挺惊艳的", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "本来期待焕新y ，自从看完外观之后 ，突然觉得老y 比新的好太多了 单纯从外观说", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "本来满心期待提新款，结果来了个屏幕换挡，失望", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "如果怀档还在，真心想把手上老款更换新款了。。。屏幕档真心搞不懂[抠鼻]", "label1": "怀档", "label2": "感知质量"}
+{"topic": "modelY", "input": "长续版真的不错，家里的老款瞬间不香了[笑哭][笑哭]", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "这贯穿尾灯真的好看吗？[九转大肠]", "label1": "贯穿尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "座舱舒适度", "label2": "感知质量"}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "座舱智能程度", "label2": "感知质量"}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "配置（如海拉大灯", "label2": "配置"}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "喇叭）", "label2": NaN}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "外放电功能", "label2": "配置"}
+{"topic": "modelY", "input": "无法外放电，座舱舒适度太差，座舱智能程度堪称末位、减配海拉大灯、喇叭减配，fsd 死贵，", "label1": "fsd", "label2": "性价比"}
+{"topic": "modelY", "input": "同级别最小的磷酸铁锂电池，400v 平台，马力最小的电机 3 电跟老款相比没有任何进步，售价高达 26.3 万，最大的优点是外国牌子[看]", "label1": "电池", "label2": "续航"}
+{"topic": "modelY", "input": "同级别最小的磷酸铁锂电池，400v 平台，马力最小的电机 3 电跟老款相比没有任何进步，售价高达 26.3 万，最大的优点是外国牌子[看]", "label1": "电机", "label2": "配置"}
+{"topic": "modelY", "input": "同级别最小的磷酸铁锂电池，400v 平台，马力最小的电机 3 电跟老款相比没有任何进步，售价高达 26.3 万，最大的优点是外国牌子[看]", "label1": "售价", "label2": "性价比"}
+{"topic": "modelY", "input": "同级别最小的磷酸铁锂电池，400v 平台，马力最小的电机 3 电跟老款相比没有任何进步，售价高达 26.3 万，最大的优点是外国牌子[看]", "label1": "品牌", "label2": "品牌力"}
+{"topic": "modelY", "input": "我就特别喜欢这外观，一开始很丑，咋越看越好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "档杆没有了[流泪]", "label1": "档杆", "label2": "配置"}
+{"topic": "modelY", "input": "30万买这个[捂脸]", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "外观看起来像出租车[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "咋觉得前脸没老款好看", "label1": "前脸外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观前脸真丑，不如老款顺眼", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "新y真不好看，老y车主路过[尬笑][尬笑][尬笑]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "作为老车主，本来想换新车的，看到Model Y这么丑的前脸不打算换了，再开几年吧！", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款属于越看越好看的", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个前灯太失望了，比3差太多", "label1": "前灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "3改款很漂亮，Y的改款是真有失特斯拉水准[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个把手就够我吐槽很久", "label1": "把手", "label2": "感知质量"}
+{"topic": "modelY", "input": "贯穿灯挺好看的，但是和之前这个外观不协调。和皮卡那个外观绝对是不违和的。", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是老款好看 前脸和屁股都不好看 尾部漫反射很好但是两边的尾灯拉的好丑[流泪]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "可惜四驱没干到800以上的续航，要不然行业第一了", "label1": "四驱续航", "label2": "续航"}
+{"topic": "modelY", "input": "这价格突然觉得比阿维塔12更香了", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "还是觉得老款青蛙眼睛好看", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "呀，很不喜欢屏幕换挡", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "11.9度电每公里，这不是比油车还贵", "label1": "电耗", "label2": "经济性"}
+{"topic": "modelY", "input": "灰色好好看，但是加钱太多了，还是定星空灰吧", "label1": "灰色外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "尾灯很帅，前面感觉也可以接受啊，确实有点钢铁侠的感觉", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "至少比焕新3的眯眯眼好看得多得多", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "现场看这个后尾灯真的质感无敌，漫反射会打到地上", "label1": "后尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是觉得焕新版 3 的设计好看一些", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "挂挡的挡杆取消了 这么重要的改变视频竟然不提[捂脸]", "label1": "挡杆", "label2": NaN}
+{"topic": "modelY", "input": "音响减配，很不爽啊", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "减配音响受不了", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "@莫离莫惜 好吧我承认我心动了，但凡有个仪表盘咱就直接定了", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡受不了[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是不喜欢屏幕换挡[笑哭]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "滑屏换挡，我也是醉了", "label1": "滑屏换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "竟然还是400v架构[九转大肠]，充电慢的离谱", "label1": "充电速度", "label2": "便利性"}
+{"topic": "modelY", "input": "@喜西西 新款太丑了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉的能耗无人能敌，六十度电做到 593 公里，没谁了", "label1": "能耗", "label2": "经济性"}
+{"topic": "modelY", "input": "后排屏幕取消，还不如加几个音箱！[捂脸]", "label1": "音箱配置", "label2": "配置"}
+{"topic": "modelY", "input": "美滋滋  这么帅的绝版车哪里找[看]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "换挡要是能改回来就好了", "label1": "换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "焕新3的前脸 我是真挺喜欢的", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "能不能把空调升级下，完全开不热，能耗再低有什么用", "label1": "空调", "label2": "舒适性"}
+{"topic": "modelY", "input": "这贯穿灯也太帅了 火星车[666]", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "挂档还要看点屏幕，不知道怎么想的，怀挡多好呀", "label1": "怀挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "其实说实话 真实的 新款明显升级了很多更好了。总体而言非常不错。为什么还有人会去买老款呢。单纯为了便宜还是说新款真的很丑不喜欢了？", "label1": "新款升级", "label2": NaN}
+{"topic": "modelY", "input": "前面还能忍忍，后面真的像钢铁侠的下巴[尬笑]", "label1": "车尾", "label2": "感知质量"}
+{"topic": "modelY", "input": "底盘高度能做到20厘米以上就完美了[捂脸]", "label1": "底盘高度", "label2": "经济性"}
+{"topic": "modelY", "input": "太平庸了 没有购买欲望[流泪]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "离地间隙本来就低，现在更低了，为了增加舒适性又怕影响操控于是降低了底盘，这种做法很不负责任[酷拽]", "label1": "离地间隙", "label2": "经济性"}
+{"topic": "modelY", "input": "20寸轮毂动不动就鼓包，我已经换了四条胎了都是因为鼓包或者割破", "label1": "轮胎质量", "label2": "感知质量"}
+{"topic": "modelY", "input": "地盘低了，比普通轿车还低[泪奔]", "label1": "地盘", "label2": "经济性"}
+{"topic": "modelY", "input": "毛豆3尾灯改贯穿灯我觉得挺好的", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观和 没有换挡杆让我很难受", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观和 没有换挡杆让我很难受", "label1": "换挡杆", "label2": "配置"}
+{"topic": "modelY", "input": "后驱版充电功率峰值只有170kw?[暗中观察][暗中观察]", "label1": "充电功率", "label2": "便利性"}
+{"topic": "modelY", "input": "最大败笔是屏幕换档位[捂脸]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "一个“丑”", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "失望不好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "还不如保留现款前大灯或者新3的大灯，这前脸真难看", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "实车看了，难看，车头扁扁着，太丑了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "无线充电板还是没给吹风口，夏天手机充不了电", "label1": "无线充电板", "label2": "配置"}
+{"topic": "modelY", "input": "确实比老款好看太多了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "车去看了，比老款好看，我把我3换了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "怎么这么丑了…", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我只担心前摄像头要经常擦，夏天能糊一脸蚊虫尸体在上面[尬笑][尬笑][尬笑]", "label1": "前摄像头", "label2": "感知质量"}
+{"topic": "modelY", "input": "我换新3车主，觉得整体看起来挺好看的啊，主要的争议就是贯穿式前后灯[捂脸]可能是因为我不喜欢贯穿式的灯，挺好看的[赞]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观就是几万块钱的品质[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "巨丑，白瞎我等了这么久", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸好看一点，尾灯帅好多[呆无辜]", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸好看一点，尾灯帅好多[呆无辜]", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "贯穿灯是真丑啊", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "白色挺好看的[捂脸]", "label1": "外观颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "贯穿尾灯确实老气，确实烂大街，但是确实耐看，最主要是显得车宽！", "label1": "贯穿尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "买不起，价格还是太贵了，如果价格定在二十万以内还可以考虑一下。", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "前面贯穿真丑！后面好看！如果前面改像新3那样就完美了", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸理想理气的", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "实车比图片好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "转向杆没有更好看", "label1": "转向杆", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "转向拨杆有了，换挡拨杆也给安排上吧[泪奔]，上车一边有杆一边没杆逼死强迫症阿", "label1": "换挡拨杆", "label2": "配置"}
+{"topic": "modelY", "input": "在高速上它说能跑多少就可以跑多少，这点很牛了", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "还是老款耐看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观这玩意 都是仁者见仁 智者见智 我还挺喜欢这外观[泪奔]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "😮‍💨，贯穿真的烂大街[捂脸]", "label1": "贯穿式尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸太难看了", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "贯穿灯绝对丑[酷拽][酷拽][酷拽][灵机一动][灵机一动][灵机一动]", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "后视镜也不同了，我觉得更好了，主要是前脸不好看而已", "label1": "后视镜", "label2": "感知质量"}
+{"topic": "modelY", "input": "有钱随便买这车 yyds时尚年轻，科技可能就是不保证，但是他科技年轻", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "贯穿示宽灯 光污染很影响前车看后视镜 [看]", "label1": "贯穿示宽灯", "label2": "安全性"}
+{"topic": "modelY", "input": "前面一体式大灯太丑了", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "他为啥要把大灯做进雾灯里…[泪奔]", "label1": "大灯设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "对我的老款来说 前排座椅能去售后升级通风就可以了", "label1": "前排座椅通风", "label2": "舒适性"}
+{"topic": "modelY", "input": "没有老款好看[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款气质不够邪恶了", "label1": "气质", "label2": NaN}
+{"topic": "modelY", "input": "前脸帅的，钢铁侠", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "要是有新款有免息的话就好了[捂脸][捂脸][捂脸][捂脸][捂脸]", "label1": "金融政策", "label2": "品牌力"}
+{"topic": "modelY", "input": "新款太伤我心了，没有老款有特色[流泪]", "label1": "新款车型的特色", "label2": "感知质量"}
+{"topic": "modelY", "input": "说明贯穿灯设计对了", "label1": "贯穿灯设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "去店里看真的很好看[赞]网上看真的丑", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观和国产越来越接近[赞]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "不难看，没特点，说到点子上了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "感觉外观不用改 把续航加长 搞个通风座椅 就可以了[捂脸]", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "感觉外观不用改 把续航加长 搞个通风座椅 就可以了[捂脸]", "label1": "通风座椅", "label2": "配置"}
+{"topic": "modelY", "input": "个人觉得新款不值。买新款还不如买国产品牌。", "label1": "新款性价比", "label2": "性价比"}
+{"topic": "modelY", "input": "比老款的外观协调很多", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "真丑[捂脸][捂脸][捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款真好看 看好", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "最大的吐槽点是音响减配了", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "我居然越看越喜欢了，怎么回事[抠鼻]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "越来越难看…", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款Y质感驾驶有提升，但配置有降低", "label1": "驾驶质感", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "新款Y质感驾驶有提升，但配置有降低", "label1": "配置", "label2": "配置"}
+{"topic": "modelY", "input": "要多丑有多丑", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "失去了特斯拉的风格。太普通了。", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "底盘操控的降低就是减配，底盘是绝杀，舒适并不是安全和操控之上", "label1": "底盘操控", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "贯穿灯实际效果很好，辨识度也高。", "label1": "贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "长续航性价比最高", "label1": "长续航", "label2": "性价比"}
+{"topic": "modelY", "input": "新款就是好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响减配很拉夸", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "也没有贯穿啊  中间有断点  看着好难受", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "内饰能不能好好改一下呢？把内饰改漂亮点，和国产电动车内饰差不多，在卖这个价国产车会不会瑟瑟发抖哈哈哈哈", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "尾灯真好看", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "我觉得挺好看呀", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "不得不说一句，这外观真戳我", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "方正的线条实车会好看很多", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "白色的还行，这个灰色看着真不行[捂脸]", "label1": "颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "@晒粗真与假 接受不了这个贯穿式灯", "label1": "贯穿式灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款买长续航 就对了", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "@502 新款真丑[黑脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "各种算下来，新款贵太多了", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "真丑[捂脸][捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我感觉还没我老款的好看。", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个前摄像头比较容易遮挡", "label1": "前摄像头", "label2": "感知质量"}
+{"topic": "modelY", "input": "眯眯眼是不是针对中国口味来的，真是服了贼丑", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "hud还是没有", "label1": "hud", "label2": "配置"}
+{"topic": "modelY", "input": "没有老款有特色", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "白色看着还行", "label1": "颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是喜欢有挡杆的", "label1": "挡杆", "label2": "配置"}
+{"topic": "modelY", "input": "贯穿大灯太low了[捂脸]", "label1": "贯穿大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "贵了不买[捂脸]", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "虽说买新不买旧，但是新款是真丑啊", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "真丑[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "老款张扬霸气，新款老实中庸，气质不同", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观一般 配置好不少", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观一般 配置好不少", "label1": "配置", "label2": "配置"}
+{"topic": "modelY", "input": "后面车牌放保险杠上了，丑了很多。", "label1": "车牌摆放位置", "label2": "感知质量"}
+{"topic": "modelY", "input": "明显新款好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸太丑了", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "后屁股好丑，前边还行", "label1": "后脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "后灯还行，前脸太丑了", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸太太丑了", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "好看[玫瑰][玫瑰]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "前面贯穿有点不好看", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "后面的灯是好看没毛病，就前脸[尬笑][尬笑][尬笑]看不来，中国人喜欢显大，显贵，新款前脸不具备，我说的[捂脸][捂脸][捂脸]", "label1": "前脸设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响真的减配了", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "大家都再说丑，我觉得挺好看的[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响和我老款比差别很大，还是听得出来", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "丑俊 不看 ！看价！便宜正道", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "给你这是冲了多少…看不出来前脸设计和小鹏很像吗…不推荐新款…现在入24款是性价比最高的", "label1": "前脸设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "为什么不上800伏？", "label1": "电压", "label2": "配置"}
+{"topic": "modelY", "input": "内饰毛坯房太丑[捂脸][捂脸][捂脸]", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "丑死啦，麻溜降价[捂脸][捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "帅炸了，跟小鹏太像了。", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款前脸真像小鹏G3[捂脸]", "label1": "前脸设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "看了实车，比照片帅多了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我觉得好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕的质感确实无敌！[赞]", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "我们不拿广告费，所以，我们说实话，前脸是真丑，尾灯是真帅。", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "我们不拿广告费，所以，我们说实话，前脸是真丑，尾灯是真帅。", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "前灯条很丑，没什么质感", "label1": "前灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "标续，音响减配到9喇叭[捂脸][捂脸]。连低音炮都没有", "label1": "音响配置", "label2": "配置"}
+{"topic": "modelY", "input": "感觉还是新款好看，精致点", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "质感大于设计", "label1": "质感", "label2": "品质"}
+{"topic": "modelY", "input": "太丑了，等改款[抠鼻]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉的设计更上一层楼了，像小鹏了[赞][赞]", "label1": "设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "我只相信自己的眼睛，丑。", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "啥时候好看过？[捂脸]真没有3好看，要说特斯拉颜值天花板还得是s", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉遥遥领先！", "label1": "特斯拉", "label2": NaN}
+{"topic": "modelY", "input": "好的车灯颜色鲜艳不刺眼，有的尾灯确实好看，但是只是形状好看，特别刺眼，加大亮度！", "label1": "车灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响减配真受不了", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "这个好看[尬笑]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我是24款的，新款的真丑了，谁要我的老款的。我去换一个新款的[呲牙]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "有点丑 尤其是屁股", "label1": "后脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "怀档是是真好用", "label1": "怀档", "label2": "感知质量"}
+{"topic": "modelY", "input": "没等新款就是因为喜欢怀档", "label1": "怀档", "label2": "感知质量"}
+{"topic": "modelY", "input": "老头乐的感觉", "label1": "驾驶感受", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "我是老车主 我觉得焕新y很好看 还是那个大鼠标", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "什么都好，外观真丑[尬笑]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "选标，问题不考虑音箱吗？新款标续，音响降了", "label1": "音箱配置", "label2": "配置"}
+{"topic": "modelY", "input": "外观确实比之前的丑，电车确实买新不买旧", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "5年免息就爽了", "label1": "金融政策", "label2": "品牌力"}
+{"topic": "modelY", "input": "特斯拉的摄像头是我见过最清晰的", "label1": "摄像头", "label2": "智能座舱"}
+{"topic": "modelY", "input": "没觉得新款好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "Cyber是cyber, Y是Y， 就这个灯，说实话放在cyber这样的车型尺寸外观设计就是漂亮， Y用这个大灯，感觉比例失调的，当然我现在是看网图，没看过现车，我也21年特斯拉车主，我也喜欢特斯拉产品，但换新3我觉得好看，但换新Y只从外观来看，真的不算优秀，头完全不行，屁股只能说还行， 但这也只从感官来说，但是这个确实存在主观，", "label1": "前大灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款我觉得很丑，可能我穷吧[九转大肠]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款就是比老款的好", "label1": "新款对比老款", "label2": NaN}
+{"topic": "modelY", "input": "就像你的眼镜，高级感满满", "label1": "眼镜", "label2": NaN}
+{"topic": "modelY", "input": "好不好看因人而异，屏幕换挡接受不了[宕机]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "试问哪款更好看[捂脸][捂脸][捂脸]！这难道还不清晰嘛，如果用的是无断点式贯穿灯那会高级好看的，这种有断点式的真一言难尽，理想L系列的前灯是很高级的，新Y和赛博越野旅行车和国外的无人驾驶出租车那种无断点式车灯根本不是一回事", "label1": "前灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "换新版的方向盘质感我去现场看了差的一塌糊涂[微笑]", "label1": "方向盘", "label2": "感知质量"}
+{"topic": "modelY", "input": "外观离毛豆S越来越远", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "新款绝对比老款好看！！因为老款更丑。。。", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "刚提车几个月的Y，觉得25款Y很好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "还好不是之前网图那么帅 心里好受多了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响简配了[捂脸][捂脸]", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "标续版电机好", "label1": "电机", "label2": "性价比"}
+{"topic": "modelY", "input": "造型丑跟灯没关系", "label1": "造型", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个车身降级真是痛点！我家老款y进院子就差一点拖底，这新款矮了，我一下子就觉得失望了，买不了了，没发开进院子充电了！", "label1": "车身高度", "label2": "感知质量"}
+{"topic": "modelY", "input": "我就说好看！", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "唯一就是换挡和速度屏幕 为啥S 和X仪表屏幕没给呢？总是缺点什么！", "label1": "仪表屏幕", "label2": "配置"}
+{"topic": "modelY", "input": "改丑了[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "可惜标配的喇叭减配了", "label1": "喇叭", "label2": NaN}
+{"topic": "modelY", "input": "我觉得很好看 但是老款也不错 升级的东西没太多没必要换", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "要是把后排的屏幕换成仪表屏幕就好了", "label1": "仪表", "label2": "配置"}
+{"topic": "modelY", "input": "看到新款这么丑心理平衡多了，老款真香[舔屏][舔屏][舔屏]新款虽然也是灯条但这尾灯和帕拉梅拉差不少呢", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "底盘太低中国路况开起来太难受了[抠鼻]", "label1": "底盘", "label2": "感知质量"}
+{"topic": "modelY", "input": "小米那个屏幕真的是太需要改进", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "灯组变化只是表面，科技性能提升才是重点，感觉提升不大[尬笑]", "label1": "灯组", "label2": "感知质量"}
+{"topic": "modelY", "input": "灯组变化只是表面，科技性能提升才是重点，感觉提升不大[尬笑]", "label1": "科技性能", "label2": "性价比"}
+{"topic": "modelY", "input": "越看越好看[流泪]好想换", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "别，我也是老车主，你代表不了我，我觉得新款好看，而且，现在这都电子产品，买新不买旧", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "别，我也是老车主，你代表不了我，我觉得新款好看，而且，现在这都电子产品，买新不买旧", "label1": "产品更新", "label2": NaN}
+{"topic": "modelY", "input": "还是老款经典", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "最爱的音响减配了[抱抱你]", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "400多公里的续航完全不耽误长途", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "真不一样，我每年冬天都从新疆来海南，这次开长续航，以前300公里一充，现在几乎450一充，关键标续三方最高也就90千瓦，长续航轻松120千瓦功率。", "label1": "长续航", "label2": "续航"}
+{"topic": "modelY", "input": "我特斯拉刹车踩不下去追尾了，根本踩不下去刹车。", "label1": "刹车系统", "label2": "操控"}
+{"topic": "modelY", "input": "前脸还行，后面贯穿式灯欣赏不来", "label1": "尾灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕比国产任何车都好太多太多", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "第二辆特斯拉，证实这哥们说的都是真的，我的上一辆性能版，操控完全可以对比150万以上跑车操控[赞]亲身体会", "label1": "操控", "label2": "操控"}
+{"topic": "modelY", "input": "我也是21年标准续航后驱版老车主，新款刚出来那天立刻就下单了一台四轮驱动长续航版，就是觉得好看[赞]，但总有人说是模仿小鹏前脸，他们压根不去搜一搜2019年发布的赛博皮卡就这个前脸设计了！到底是谁模仿的谁？老款有老款的好，新款有新款的妙，老款新款我全都要[看][看]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "老款卖完了，新款就顺眼了，就跟宝马5系一个道理", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "电子产品买新不买旧，不过长续航还是超预算", "label1": "续航", "label2": "续航"}
+{"topic": "modelY", "input": "赛博幅度和曲线确实好看，但是新款y感觉是东一孔西一斜坡的感觉[捂脸]", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "标续就是音箱少了可惜了订了又想退", "label1": "音响", "label2": "配置"}
+{"topic": "modelY", "input": "我觉得新款是真丑[笑哭]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "后面还可以，前面真的丑", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "换挡拨杆没了，还是老Y吧", "label1": "换挡拨杆", "label2": "配置"}
+{"topic": "modelY", "input": "外观平庸，至少没见过实车之前，这是我的结论，现在肯定不是入手时机，等清完老款，自然会有一波优惠，你可以不相信老马，但你必须相信雷军有这个实力让他给到优惠，其次，作为老车主我还是那句话，你第一辆，且只能买电车的情况下，闭眼入特斯拉任何一款，哪怕是二手老款，我绝不扒瞎，特斯拉值得闭眼入，如果是第二辆，万万不能再看特斯拉一眼，爽车一辆就够，第二辆老老实实奔着舒适和家庭用车走，这些属性特斯拉给不了你", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我一个刚提老Y两个月的车主真心觉得新Y太香了。。就贵2万，性价比太高了。把老Y的所有短板全部弥补了。。几乎没缺点了[流泪][流泪][流泪]", "label1": "性价比", "label2": "性价比"}
+{"topic": "modelY", "input": "我一个刚提老Y两个月的车主真心觉得新Y太香了。。就贵2万，性价比太高了。把老Y的所有短板全部弥补了。。几乎没缺点了[流泪][流泪][流泪]", "label1": "短板弥补", "label2": "空间"}
+{"topic": "modelY", "input": "24款车主客观说下吧，尾部确实好看如果前脸按照焕新3的设计风格那就完美了，再一个取消怀挡也是败笔，总得来说感觉新老区别不是特别大！", "label1": "车尾", "label2": "感知质量"}
+{"topic": "modelY", "input": "24款车主客观说下吧，尾部确实好看如果前脸按照焕新3的设计风格那就完美了，再一个取消怀挡也是败笔，总得来说感觉新老区别不是特别大！", "label1": "前脸设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "24款车主客观说下吧，尾部确实好看如果前脸按照焕新3的设计风格那就完美了，再一个取消怀挡也是败笔，总得来说感觉新老区别不是特别大！", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "别喷我   真不算好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "为啥要把怀档取消啊，屏幕换挡真的逆天", "label1": "怀档", "label2": "配置"}
+{"topic": "modelY", "input": "为啥要把怀档取消啊，屏幕换挡真的逆天", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "别的不知道，就是好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "屁股是真丑啊，没档把没码表，难以理解", "label1": "屁股", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡好o心[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "一个换挡就劝退不少", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "车头太像小鹏p7+了[捂脸]", "label1": "车头设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "氛围灯颜色可以随机就好了", "label1": "氛围灯", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡真的拉垮 还得老款巴适", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "还挺喜欢这个车，最不能接受的就是屏幕换档，最起码得有个拨杆", "label1": "屏幕换档", "label2": "感知质量"}
+{"topic": "modelY", "input": "还不如老款  如果我想刮雨刷器 还得现找功能  [捂脸]然后控制不好就撞了还得修车[捂脸]", "label1": "刮雨器", "label2": "感知质量"}
+{"topic": "modelY", "input": "那个卡片太容易丢了，一点都不好用", "label1": "卡片钥匙", "label2": "感知质量"}
+{"topic": "modelY", "input": "目前开的上一代y，再四五年后看看什么样，要么它更新自动换档，要么回归换档杆，否则下一辆车不会选特斯拉了，屏幕换档太抽象了，开了开朋友的新3，窄路掉个头真难绷[憨笑][赞]", "label1": "屏幕换档", "label2": "感知质量"}
+{"topic": "modelY", "input": "试驾了一下，拉中拉，开着难受的很。", "label1": "驾驶感受", "label2": "操控"}
+{"topic": "modelY", "input": "我是真的没法理解，档杆才几个钱啊 这个没必要省吧", "label1": "档杆成本", "label2": "配置"}
+{"topic": "modelY", "input": "简约，而不简单，不得不说在在一些设计上确实好过国产，国产很多功能华而不实[抠鼻]", "label1": "设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "其实后排的屏幕根本没什么用，还不如节约的成本变成怀档。不知道咋想的", "label1": "后排屏幕", "label2": "配置"}
+{"topic": "modelY", "input": "其实后排的屏幕根本没什么用，还不如节约的成本变成怀档。不知道咋想的", "label1": "怀档", "label2": "配置"}
+{"topic": "modelY", "input": "为啥怀档不香吗[捂脸]屏幕滑来滑去的太麻烦了", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "换挡是我对特斯拉不选理由之一", "label1": "换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "换成3的前脸和车灯就好了", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "换成3的前脸和车灯就好了", "label1": "车灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "@大盆友～ @思念變成海 @挽桉. 新版好丑", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我建议把方向盘也用屏幕控制", "label1": "方向盘", "label2": "感知质量"}
+{"topic": "modelY", "input": "作为换新三车主，我都对换新y心动了，新款Y绝对卖爆。", "label1": "新款Y", "label2": NaN}
+{"topic": "modelY", "input": "屏幕换挡，遇到紧急情况怎么办我请问[泪奔][泪奔]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "好多设置都是二级三级菜单，太复杂了，不如实体键好用", "label1": "中控屏幕菜单设置", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡真接受不了，那怀档多好用", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "中控屏换挡就是反人类", "label1": "中控屏换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "夏天40度高温的时候，冬天零下三十度的时候，车机延迟开启，想走都走不了。", "label1": "车机", "label2": "感知质量"}
+{"topic": "modelY", "input": "我朋友做车辆救援的，他拉过几辆被撞的不是很厉害的特斯拉，都出现直接锁门断电了开不了[捂脸][捂脸]", "label1": "安全性", "label2": "安全性"}
+{"topic": "modelY", "input": "我朋友做车辆救援的，他拉过几辆被撞的不是很厉害的特斯拉，都出现直接锁门断电了开不了[捂脸][捂脸]", "label1": "电池", "label2": "续航"}
+{"topic": "modelY", "input": "我朋友做车辆救援的，他拉过几辆被撞的不是很厉害的特斯拉，都出现直接锁门断电了开不了[捂脸][捂脸]", "label1": "锁门", "label2": "待分类"}
+{"topic": "modelY", "input": "屏幕换挡我是真想不通[泪奔]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "外形再也不是邪恶大鼠标了[看]", "label1": "外形", "label2": "感知质量"}
+{"topic": "modelY", "input": "唯独美中不足就是取消怀挡 老韭菜只能等旧车报废再买了[流泪]", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "真是欣赏不来这种内饰，感觉像毛坯房里就放了个电视机，粉刷都没有", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "降到20万交个朋友", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "屏幕换档真的很方便呀", "label1": "屏幕换档", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡[微笑][微笑]不要也罢[机智][机智]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车应该卖十五万得了", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "怀挡是我的底线", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡劝退", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕死机息屏了，怎么换挡？", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕触摸换挡？说实话有些情况根本来不及触摸换挡", "label1": "屏幕触摸换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "回东北过年的时候 自家哥哥的毛豆3 屏幕就不亮了 赶上下大雪 雪很厚 除了能开剩下啥也干不了[捂脸]", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "有转向灯拨杆，不买了[他急了]", "label1": "转向灯拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "有转向灯拨杆，却没有换挡拨杆，不对称，看着怪怪的，一边有，一边没有", "label1": "换挡拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "造型喜欢，内饰喜欢，特别想买，听说电控和电池衰减控制这些地方也是顶级。但是屏幕换挡又真的很难接受[撇嘴]", "label1": "电控", "label2": "动力性能"}
+{"topic": "modelY", "input": "造型喜欢，内饰喜欢，特别想买，听说电控和电池衰减控制这些地方也是顶级。但是屏幕换挡又真的很难接受[撇嘴]", "label1": "电池衰减控制", "label2": "续航"}
+{"topic": "modelY", "input": "造型喜欢，内饰喜欢，特别想买，听说电控和电池衰减控制这些地方也是顶级。但是屏幕换挡又真的很难接受[撇嘴]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "唯一缺点就是没有黑色", "label1": "外观颜色", "label2": "配置"}
+{"topic": "modelY", "input": "摄像头清洗 后排一键放倒 前备箱一键开启 电吸门 拨杆转向灯  羡慕不过来了[流泪]", "label1": "配置", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡。。。成本节约到极致", "label1": "屏幕换挡", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡在市区开车手一直举起来放下去不累吗", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "万一屏幕坏了就不能开了", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡真是反人类", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "从某种程度上来讲，特斯拉确实跟苹果很像，除了内在功力（电控和系统）牛逼些，外在设计真的算不上好看[捂脸]", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "这种毛毡是真的掉价，成本降降降", "label1": "毛毡", "label2": NaN}
+{"topic": "modelY", "input": "这个换挡属实有点接受不了，其他都可以", "label1": "换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "怀挡那么方便为什么取消", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "这内饰风格……说实话跟蔚来乐道除了换挡模式 其他的简直一摸一样[尬笑][尬笑][尬笑]  但是乐道的腿部空间比特斯拉大太多", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "这内饰风格……说实话跟蔚来乐道除了换挡模式 其他的简直一摸一样[尬笑][尬笑][尬笑]  但是乐道的腿部空间比特斯拉大太多", "label1": "腿部空间", "label2": "空间"}
+{"topic": "modelY", "input": "屏幕换挡[赞]", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "车头没有了第一代的感觉，太普通了，尾巴不性感了", "label1": "车头", "label2": "感知质量"}
+{"topic": "modelY", "input": "车头没有了第一代的感觉，太普通了，尾巴不性感了", "label1": "尾部设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "一直搞不懂，为啥划清屏换挡，怀档多好啊，[打脸]", "label1": "划清屏换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "好家伙，换挡拨竿真就是一根竿子[捂脸]", "label1": "换挡拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "如果屏幕坏了怎么办[尬笑][尬笑][尬笑]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "第一眼看丑吐了，现在越看越好看[舔屏]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "感觉换新版的没之前的好看顺眼有气质[泪奔][泪奔]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "手动门把手跟屏幕换挡是真接受不了[捂脸]", "label1": "手动门把手", "label2": "配置"}
+{"topic": "modelY", "input": "手动门把手跟屏幕换挡是真接受不了[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡真的逆天[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "以前方向盘左右两个杆子挺好的！还方便！为啥要换屏幕上[流泪]", "label1": "方向盘", "label2": "配置"}
+{"topic": "modelY", "input": "出个怀挡就好啦[呲牙]", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "我的4万公里 轮胎嗡嗡声特严重 减震也隔滋隔滋响[捂脸][捂脸]", "label1": "轮胎嗡嗡声", "label2": "NVH"}
+{"topic": "modelY", "input": "我的4万公里 轮胎嗡嗡声特严重 减震也隔滋隔滋响[捂脸][捂脸]", "label1": "减震异响", "label2": "NVH"}
+{"topic": "modelY", "input": "为啥换挡都到屏幕里了，车机卡了不安全，使用也不方便[捂脸]", "label1": "车机", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是这个级别纯电标杆[灵机一动]", "label1": "纯电标杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "[微笑]老款前脸还是挺好看的", "label1": "老款前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "要是怀挡就好了", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "怀挡就很好 换什么屏幕换挡[捂脸] 手要离开方向盘才安全？", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕失灵就不能换挡了[捂脸]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉那么多车机黑屏案例，一定要去掉所有实体按键吗[捂脸]", "label1": "车机", "label2": "品质"}
+{"topic": "modelY", "input": "什么时候取消屏幕换挡我什么时候买[思考]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "前脸不够邪恶", "label1": "前脸设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "车顶挂档更是逆天", "label1": "车顶挂档", "label2": "舒适性"}
+{"topic": "modelY", "input": "这前盖是真的丑[流泪]", "label1": "前盖外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "取消换挡拨杆，改成屏幕换挡。给大家科普个冷知识 物理换挡按钮存在，在双闪位置。所以不要担心死机的问题，但是还是没有拨杆来的方便。另外国内的因为法规等一些因素阉割掉了智能驾驶，国外的完整版是根据你实际的情况，用方向盘转向以及刹车踏板进行整个换挡过程，看国外测试表示习惯之后挺好用的。", "label1": "换挡方式", "label2": "感知质量"}
+{"topic": "modelY", "input": "取消换挡拨杆，改成屏幕换挡。给大家科普个冷知识 物理换挡按钮存在，在双闪位置。所以不要担心死机的问题，但是还是没有拨杆来的方便。另外国内的因为法规等一些因素阉割掉了智能驾驶，国外的完整版是根据你实际的情况，用方向盘转向以及刹车踏板进行整个换挡过程，看国外测试表示习惯之后挺好用的。", "label1": "智能驾驶", "label2": "智能驾驶"}
+{"topic": "modelY", "input": "这么多摄像头竟然没有360，不能理解", "label1": "360全景影像", "label2": "配置"}
+{"topic": "modelY", "input": "一直忍着不买老款y等新款y，以为和换新3大差不差[我想静静]结果出来这玩意，真的很难为丑的设计买单。", "label1": "外观设计", "label2": "感知质量"}
+{"topic": "modelY", "input": "刚看了，没有一点购买欲望了，坐在里面一点情绪价值都给不鸟", "label1": "情绪价值", "label2": NaN}
+{"topic": "modelY", "input": "偏偏留一根档杆 理解不了，怀挡多好用啊", "label1": "档杆", "label2": "配置"}
+{"topic": "modelY", "input": "焕新版，惊艳到我了，快点降价啦，", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "连仪表屏都没有，别说在中控屏上，就是没有。毛坯房", "label1": "仪表屏", "label2": "配置"}
+{"topic": "modelY", "input": "毫不犹豫换车，特斯拉Y太丑了，还得是新3比例协调", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡是非常容易习惯的，还有很多车是琴键档，和屏幕档没什么本质区别……稍微用用就习惯了，换挡本来也是使用频率很低的场景", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "这不比Yu7好看多了[尬笑]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "完了 好想换新款[流泪]", "label1": "新款", "label2": NaN}
+{"topic": "modelY", "input": "因为国内是阉割版，没有自动换挡，所以屏幕换挡很反人类[绿帽子]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉内饰多做几个按键吧[捂脸]屏幕坏了车也废了", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "当你在一个极窄停车位需要反复倒车入库的时候，就知道屏幕换挡的酸爽了", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是觉得老y好，新y其他都忍了但屏幕换挡接受不了", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "这种环抱式氛围灯就很高级不刺眼，谁在说毛坯房我把他头按方向盘里[发怒]", "label1": "氛围灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "进来就秀一把屏幕换挡这逆天玩意[捂脸][捂脸][捂脸][捂脸][捂脸][捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "实车比图片好看多了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "左边转向灯，右边怀挡不更好吗，其他没按键无所谓", "label1": "怀挡", "label2": "配置"}
+{"topic": "modelY", "input": "还没呢老款好看[尬笑]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "虽然但是车灯还是原来的好看诶[微笑袋鼠]", "label1": "车灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "太素了，我要的是一个给我享受或者乐趣的成为我生活一部分的车子，而不是只是一个把我从一个地方送到另一个地方的机器人……", "label1": "驾驶感受", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "太素了，我要的是一个给我享受或者乐趣的成为我生活一部分的车子，而不是只是一个把我从一个地方送到另一个地方的机器人……", "label1": "情感连接", "label2": NaN}
+{"topic": "modelY", "input": "屏幕黑屏了怎么换挡", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡太反人类了[绿帽子]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "这车头贯穿灯 真的一眼 小鹏[泪奔]", "label1": "车头贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "这内饰，喜欢的是真喜欢。", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "轮毂太丑了吧", "label1": "轮毂", "label2": "感知质量"}
+{"topic": "modelY", "input": "好怕哪天方向盘也没了，给你整个屏幕搓玻璃转向。中控一个按键都没了[尬笑][尬笑][尬笑][尬笑]\n反正游戏里都能这么开车[微笑][微笑][微笑][微笑][微笑][微笑][微笑]", "label1": "自动驾驶", "label2": "智能驾驶"}
+{"topic": "modelY", "input": "老Y车主表示，屏幕换挡勉强接受，3的那个按钮转向灯是真接受不了", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉车是好车，但是这个屏幕换挡确实不是开了个好头，赶紧改了吧[尬笑]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡接受不了一点[流泪]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡，转向灯细的跟条线一样 ，下一步是啥？刹车灯也打算整成线吗[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "好想买一个，太简洁了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这屏幕上划来划去换档真的符合日常使用习惯吗….屏幕要是不行了 换档也就拜拜了？[衰]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "没800V，没FSD，没仪表盘，没大电池，感觉小米YU7的机会来了。加油雷军 [比心]", "label1": "配置", "label2": "配置"}
+{"topic": "modelY", "input": "屏幕换挡  难以接受", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "哪哪都好就前脸给我换成老款[捂脸]", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕坏了，车也开不了了[赞]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "怎么感觉变得更丑了[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "为什么新Y的转向灯是拨杆，不和新3一样呢[微笑]", "label1": "转向灯设置", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个座椅给我的感觉很硬[暗中观察]", "label1": "座椅", "label2": "舒适性"}
+{"topic": "modelY", "input": "还是很丑[泪奔]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "有和我一样认为车头贯穿灯丑的吗？？3继续战斗吧，省钱[呲牙][呲牙]", "label1": "车头贯穿灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "既然保留转向灯拨杆了为什么不把远光灯加上呢[尬笑]", "label1": "转向灯拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "老y表示买的刚刚好新y虽然帅但是屏幕换挡过于逆天", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "不是，屏幕换挡就算了，仪表盘呢？[发呆]", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "真没怀档的老款好用", "label1": "怀档", "label2": "配置"}
+{"topic": "modelY", "input": "我感觉屏幕换挡挺好用的[泪奔]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "把屏幕换挡改为怀档，销量还能翻倍。", "label1": "怀档", "label2": "感知质量"}
+{"topic": "modelY", "input": "去店里看完实车后就下单了 真车要比照片里好看很多", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "赶紧把换挡给加上吧", "label1": "换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "焕新3车主表示方向拨杆根本不需要保留，用习惯了很舒服[比心]", "label1": "方向拨杆", "label2": NaN}
+{"topic": "modelY", "input": "这个新版特斯拉屏幕换挡真的抽象", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "别人说屏幕换挡很麻烦", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "感觉真的帅", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换档接受不了一点[擦汗]", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "就想问问东北买这个的，夏天热不热，冬天冷不冷，我在云南实在受不了这个车的全景天窗，", "label1": "全景天窗", "label2": "舒适性"}
+{"topic": "modelY", "input": "换成了转向灯拨杆，高级[泪奔][泪奔][泪奔]", "label1": "转向灯拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个前脸让很多想买的望而却步", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕挂挡  不方便。", "label1": "屏幕", "label2": "感知质量"}
+{"topic": "modelY", "input": "怀挡多好，换个这东西[捂脸]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "后排中间没有头枕这个不可容忍的缺点，他们从不改善。谁坐一回就知道多难受了", "label1": "后排中间头枕", "label2": "配置"}
+{"topic": "modelY", "input": "简单大气啊", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "说实话，这个屏幕换挡是真的逆天", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "万中无一的按键换挡[流泪][流泪][流泪]", "label1": "按键换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡我感觉挺舒服的 唯一不舒服的也不是转向， 是大灯 总按错", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "屏幕换挡我感觉挺舒服的 唯一不舒服的也不是转向， 是大灯 总按错", "label1": "大灯按键", "label2": "感知质量"}
+{"topic": "modelY", "input": "音响不如以前了", "label1": "音响", "label2": "声音品质"}
+{"topic": "modelY", "input": "驾驶感不错，乘坐感很差，坐垫硬，靠背也硬，建议小年轻买，有家庭小孩的最好就不买了[看]", "label1": "驾驶感", "label2": "操控"}
+{"topic": "modelY", "input": "驾驶感不错，乘坐感很差，坐垫硬，靠背也硬，建议小年轻买，有家庭小孩的最好就不买了[看]", "label1": "坐垫", "label2": "舒适性"}
+{"topic": "modelY", "input": "屏幕换挡，真是天才想出来的", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个白色内饰好丑，显得很没质感", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "这造型马斯克有点狂了", "label1": "造型", "label2": "感知质量"}
+{"topic": "modelY", "input": "那么丑 还不如现款的 [捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "除了牌子一无所有", "label1": "品牌", "label2": "品牌力"}
+{"topic": "modelY", "input": "有种白等了的感觉，没有老款看着顺眼", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "风琴踏板都没？减配到底！！", "label1": "风琴踏板", "label2": "配置"}
+{"topic": "modelY", "input": "能不能加个按摩座椅和HUD真是服了", "label1": "按摩座椅", "label2": "配置"}
+{"topic": "modelY", "input": "能不能加个按摩座椅和HUD真是服了", "label1": "HUD", "label2": "配置"}
+{"topic": "modelY", "input": "@pp @Blue @Xxi 屏幕换挡有点搞吧，这侧方停车不得麻烦死[尬笑]", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "我的建议是方向盘，后视镜，主驾车窗按键，也一起集成到屏幕上，更加简约[呲牙]", "label1": "屏幕集成度", "label2": "智能座舱"}
+{"topic": "modelY", "input": "挡把无所谓了 给个小仪表盘好一点[捂脸]", "label1": "仪表盘", "label2": "配置"}
+{"topic": "modelY", "input": "保留左右拨杆真好，新三右键是真的不按[流泪]", "label1": "拨杆", "label2": "感知质量"}
+{"topic": "modelY", "input": "3能不能把转向杆改回来", "label1": "转向杆", "label2": "驾驶感受"}
+{"topic": "modelY", "input": "这车哪都好，就是太贵", "label1": "价格", "label2": "性价比"}
+{"topic": "modelY", "input": "后视镜折叠电机声音真大", "label1": "后视镜折叠电机", "label2": "感知质量"}
+{"topic": "modelY", "input": "转向灯能不能做的明显一点，太细了。不认真看，还不知道打了转向灯呢", "label1": "转向灯", "label2": "感知质量"}
+{"topic": "modelY", "input": "真帅，比老款好看多了", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "这种内饰太单调了，开久了就没啥兴趣了，谁愿意在那个屏幕上点来点去的。\n就跟房子毛坯房差不多，就是贴了地板刷了墙，但是没有家具家电的那种，乍一看很新颖，开久了就会疲劳，就觉得这车没啥意思。就一个平板加一个方向盘。", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "前几天去看了实车，方向盘中间没了锤子标，加屏幕换挡，直接把我劝退了……", "label1": "方向盘", "label2": "感知质量"}
+{"topic": "modelY", "input": "白色内饰不用一个月就发黄 [看]", "label1": "内饰颜色", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是焕新 3 帅[捂脸]", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "真丑，不如旧款好看！", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "焕新版model y的原厂胎真的值得夸一夸。作为电车轮胎中的天花板必须是固特异e锐乘，静音舒适性绝对杠杠滴，老款也用这款轮胎。", "label1": "轮胎", "label2": "NVH"}
+{"topic": "modelY", "input": "怀挡才是最好用的", "label1": "怀挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "今天在路上看到车身效果爆炸特帅", "label1": "车身效果", "label2": "感知质量"}
+{"topic": "modelY", "input": "进口换挡就跟奔驰一样", "label1": "换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "什么都没有就一个屏幕[发呆]", "label1": "屏幕", "label2": "智能座舱"}
+{"topic": "modelY", "input": "加上鹰翼门就OK了", "label1": "鹰翼门", "label2": "待分类"}
+{"topic": "modelY", "input": "真欣赏不来特斯拉的内饰，纯毛坯", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个前脸不知道为啥给人一种国产车的感觉 看到第一眼就是这种感觉", "label1": "前脸", "label2": "感知质量"}
+{"topic": "modelY", "input": "怀档不比点屏幕和打方向快，不懂为什么改[捂脸]", "label1": "怀档", "label2": "感知质量"}
+{"topic": "modelY", "input": "@行星观测员340号 虽说屏幕换挡但确实帅", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "还是新3好看", "label1": "外观", "label2": "感知质量"}
+{"topic": "modelY", "input": "我真服了，这种简洁的内饰我喜欢的不行，有的人却在喷毛坯房", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "除了屏幕换挡 都好", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "特斯拉中控屏会存在死机黑屏的情况，如果黑屏了，换不了挡，你怎么办[泪奔]", "label1": "中控屏稳定性", "label2": "感知质量"}
+{"topic": "modelY", "input": "这辆特斯拉里面，感觉就像是一间毛坯房，装了一台豪华电视机[捂脸][捂脸]简陋又空荡荡的", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "我当时看到屏幕换挡直接pass特斯拉", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "为啥我去年租的毛豆y，高速开100都感觉很飘", "label1": "高速稳定性", "label2": "操控"}
+{"topic": "modelY", "input": "说是极简主义，但是操作更麻烦了", "label1": "操作界面", "label2": "感知质量"}
+{"topic": "modelY", "input": "这个交车怎么这么复杂，我的车当时就和送快递一样给送到我们小区门口，卡片给了我人家就走了[捂脸]", "label1": "交车流程", "label2": NaN}
+{"topic": "modelY", "input": "怎么内饰还这么简陋呢！", "label1": "内饰", "label2": "感知质量"}
+{"topic": "modelY", "input": "好是好 没有物理按键真受不了", "label1": "物理按键", "label2": "感知质量"}
+{"topic": "modelY", "input": "要不是屏幕换挡我就买了", "label1": "屏幕换挡", "label2": "感知质量"}
+{"topic": "modelY", "input": "新y只留一个左转向灯真的巨丑  要么就跟3一样取消[捂脸]", "label1": "转向灯", "label2": "感知质量"}
